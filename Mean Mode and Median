@@ -1,0 +1,24 @@
+Categorical data are called as Qualitative data and Numerical data is known as Quantitative data
+
+
+1. Mean:-
+  It is the average of the data given. It is basically useful when the data is basically symmetrical and shows one type of trends.
+  
+  -- summation(x)/n ; x is the each value and n is the total number of value
+  * We can not rely on statistics when there is a skew in the data.
+  
+ 2. Median:-
+ It is also type of average when the data is skewed because of the outliners.
+ If there are odd number of values , the median is one of the middle.
+ If there are even number of values , the median is the sum of the two values and divide it by 2.
+ 
+ 3. Mode:-
+ It is also type of an average where we have to choose the value having the highest frequency.
+ If the data is having two clusters , report a mode for each group.
+ It is the only type of average you can calculate for categorical data in the  mode.
+ The data where there are two modes are known as bimodal.
+ 
+ 
+ 
+ 
+ 
