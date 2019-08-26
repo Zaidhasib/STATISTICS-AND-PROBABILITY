@@ -18,7 +18,58 @@ Categorical data are called as Qualitative data and Numerical data is known as Q
  It is the only type of average you can calculate for categorical data in the  mode.
  The data where there are two modes are known as bimodal.
  
+ 4. Range
  
+ The range of the data is the difference between the upper bound and the lower bound of the data. The drawback of range is that it contains
+ outliers thus it should be skewed data will not give the vlue properly.
+ 
+ To solve this problem , we can divide the data into Quartiles, Quartiles are the value that spits your data into quarters. The lowest quartiles
+ called the lowest quartiles and the highest called the upper quartiles.The middle one is called as median.
+ 
+ Finding the positiion of the Quartile:
+ To find the value of the lower quartile we can calculate it  by:-
+ n/4
+ To find the upper quartile:
+ 3n/4
+ 
+ Interquartile range is the difference between the upper quartile and the lower quartile.
+ 
+ *Percentiles:-
+ Percentiles are the values that split your data into percentage .
+ 
+How to find the percentiles:-
+i> First of all kept the values in ascending order.
+ii> To find the position of kth percentile out of n nnumbers , start off by calculating k*(n/100)
+iii> If this gives you a interger, then your percentile is half way between the value at position k*(n/100) and the next number.Take the average of the numbers at these two position will give you the percentile.
+If it is not integer then round it up, it will give you the percentile.
+
+
+**Box and whisker plot let you visualize ranges:
+It is a useful way of showing ranges and quartiline on the chart . A box will show where the quartiline and inter quartile ranges are, and the 
+whiskers give  you the upper and lower bounds . More than one set of data can be shown on the same chart, they can be shown on the same chart
+, so they are useful for comparision.
+
+5. Variance:
+ It is a way of measuring spread , and it is the average of the distance values for the mean squared.
+ 
+ summation(x-mean)^2/n  x is the each value and n is the total number of value
+ 
+ 6.Standard deviation:
+  Square root of the variance.
+  The smaller the value of standard deviation, the closer the value to the mean.
+  
+  squareroot(variance)
+  
+  **Other way to find the variance:
+  summation(x^2)/n -mean^2
+  
+  7. Standard scores:-
+  It is the way of compairing values across different set of data where the means and standard deviation are different.
+  
+  z=(x-mean)/variance
+  Number of standard deviation from the mean.
+  
+
  
  
  
