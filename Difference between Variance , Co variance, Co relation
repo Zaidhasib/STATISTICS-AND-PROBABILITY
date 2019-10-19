@@ -1,0 +1,81 @@
+Basically variance will tell us the distribution of the spread
+
+Covariance will tell us the relation between the two variables or data
+
+Corelation gives us the same realtion as covarinace but it is not dependent on any scale. In covariance the data are dependent upon there scales.
+
+
+
+
+
+
+
+What is Variance?
+In statistics, variance refers to the spread of a data set. It’s a measurement used to identify how far each number in the data set is from the mean. 
+
+While performing market research, variance is particularly useful when calculating probabilities of future events. Variance is a great way to find all of the possible values and likelihoods that a random variable can take within a given range.
+
+A variance value of zero represents that all of the values within a data set are identical, while all variances that are not equal to zero will come in the form of positive numbers. 
+
+The larger the variance, the more spread in the data set. 
+
+A large variance means that the numbers in a set are far from the mean and each other. A small variance means that the numbers are closer together in value.
+
+How to Calculate Variance
+Variance is calculated by taking the differences between each number in a data set and the mean, squaring those differences to give them positive value, and dividing the sum of the resulting squares by the number of values in the set.
+
+The formula for variance is as follows:
+
+Mathematical formula for variance.
+
+In this formula, X represents an individual data point, u represents the mean of the data points, and N represents the total number of data points.
+
+Note that while calculating a sample variance in order to estimate a population variance, the denominator of the variance equation becomes N – 1. This removes bias from the estimation, as it prohibits the researcher from underestimating the population variance.
+
+An Advantage of Variance
+One of the primary advantages of variance is that it treats all deviations from the mean of the data set in the same way, regardless of direction. 
+
+This ensures that the squared deviations cannot sum to zero, which would result in giving the appearance that there was no variability in the data set at all.
+
+A Disadvantage of Variance
+One of the most commonly discussed disadvantages of variance is that it gives added weight to numbers that are far from the mean, or outliers. Squaring these numbers can at times result in skewed interpretations of the data set as a whole.
+
+What is Covariance?
+Covariance provides insight into how two variables are related to one another. 
+
+More precisely, covariance refers to the measure of how two random variables in a data set will change together. 
+
+A positive covariance means that the two variables at hand are positively related, and they move in the same direction. 
+
+A negative covariance means that the variables are inversely related, or that they move in opposite directions. 
+
+How to Calculate Covariance
+The formula for covariance is as follows: 
+
+Mathematical formula for covariance
+
+In this formula, X represents the independent variable, Y represents the dependent variable, N represents the number of data points in the sample, x-bar represents the mean of the X, and y-bar represents the mean of the dependent variable Y.
+
+Are Covariance and Correlation The Same Thing?
+Simply put, no.
+
+While both covariance and correlation indicate whether variables are positively or inversely related to each other, they are not considered to be the same. 
+
+This is because correlation also informs about the degree to which the variables tend to move together.
+
+Covariance is used to measure variables that have different units of measurement. By leveraging covariance, researchers are able to determine whether units are increasing or decreasing, but they are unable to solidify the degree to which the variables are moving together due to the fact that covariance does not use one standardized unit of measurement.
+
+Correlation, on the other hand, standardizes the measure of interdependence between two variables and informs researchers as to how closely the two variables move together.
+
+Correlation Coefficient
+The correlation coefficient is the term used to refer to the resulting correlation measurement. It will always maintain a value between one and negative one.
+
+When the correlation coefficient is one, the variables under examination have a perfect positive correlation. In other words, when one moves, so does the other in the same direction, proportionally.
+
+If the correlation coefficient is less than one, but still greater than zero, it indicates a less than perfect positive correlation. The closer the correlation coefficient gets to one, the stronger the correlation between the two variables.
+
+When the correlation coefficient is zero, it means that there is no identifiable relationship between the variables. If one variable moves, it’s impossible to make predictions about the movement of the other variable. 
+
+If the correlation coefficient is negative one, this means that the variables are perfectly negatively or inversely correlated. If one variable increases, the other will decrease at the same proportion. The variables will move in opposite directions from each other. 
+
+If the correlation coefficient is greater than negative one, it indicates that there is an imperfect negative correlation. As the correlation approaches negative one, the correlation grows.
