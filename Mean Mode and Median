@@ -5,7 +5,7 @@ Categorical data are called as Qualitative data and Numerical data is known as Q
   It is the average of the data given. It is basically useful when the data is basically symmetrical and shows one type of trends.
   
   -- summation(x)/n ; x is the each value and n is the total number of value
-  * We can not rely on statistics when there is a skew in the data.
+  * We can not rely on statistics when there is a skew in the data....
   
  2. Median:-
  It is also type of average when the data is skewed because of the outliners.
